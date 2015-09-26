@@ -1,6 +1,6 @@
 {
   "name": "cozy-db-pouchdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ODM for PouchDB database",
   "main": "lib/index.js",
   "directories": {
